@@ -1,0 +1,497 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assests/fonts/Proxima Nova Alt Black Italic.otf",
+      "sha1": "7e703fd3fb614d7233f42c4bb402ea5a276ae4ec"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Alt Black.otf",
+      "sha1": "07f06b00ebeeaf0583df30e172df37643c74e92b"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Alt Bold Italic.otf",
+      "sha1": "f0572f0be0e83808e6a583cea6b96c19939021b8"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Alt Bold.otf",
+      "sha1": "44b0df572e9cf9389cd6d41a44e1d3425ac3cd20"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Alt Condensed Black Italic.otf",
+      "sha1": "9bde990c3ff4636525d97ec2a7e62b6c670e8e54"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Alt Condensed Black.otf",
+      "sha1": "47c3353a988f06925161bcccbbdc33ba5d21e491"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Alt Condensed Bold Italic.otf",
+      "sha1": "93adc014c4355ec6309c2437972c7906b4a0b0ed"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Alt Condensed Bold.otf",
+      "sha1": "5750cca0976432d3b2944b96a97698b9e17d1ae8"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Alt Condensed Extrabold Italic.otf",
+      "sha1": "d5b7ea8ca998d3212639862e738aad14bf87e409"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Alt Condensed Extrabold.otf",
+      "sha1": "a241a0dcfb228560568bd03546f2eb6edc254872"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Alt Condensed Light Italic.otf",
+      "sha1": "29d56a580686877a14e02107bf52b4d5a216fd1a"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Alt Condensed Light.otf",
+      "sha1": "5392fa651fe2d5920c835a681f16e6222445a405"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Alt Condensed Regular Italic.otf",
+      "sha1": "3d09b267aa261b4d7a485759408e60a100133fae"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Alt Condensed Regular.otf",
+      "sha1": "7e9fbec4924ba8906091e6e772034ca41a595521"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Alt Condensed Semibold Italic.otf",
+      "sha1": "2d607bed780679ae01531fd6a77a9285a6ad746d"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Alt Condensed Semibold.otf",
+      "sha1": "77eeaad9700d9b757f8362d7515b4240c5c9477e"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Alt Condensed Thin Italic.otf",
+      "sha1": "82c5f2e32a8619c49d9f6f0316a05ddc14919c58"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Alt Condensed Thin.otf",
+      "sha1": "f48ea4251b8219ada477c91e02438d89e0758ea8"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Alt Extra Condensed Black Italic.otf",
+      "sha1": "4177205361be9b45e5d139973e47e93de5b5c548"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Alt Extra Condensed Black.otf",
+      "sha1": "de8abc6cf70db16376788f240ca00a0875e08918"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Alt Extra Condensed Bold Italic.otf",
+      "sha1": "c43eb04b36ffeed29181e5d3778a3a2df7639492"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Alt Extra Condensed Bold.otf",
+      "sha1": "084593f4d6d4ca618bedfa1cd0d99752f5eff0ad"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Alt Extra Condensed Extrabold Italic.otf",
+      "sha1": "7300fa19838e9c524bbfab2a9e7cf77ce47ab40a"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Alt Extra Condensed Extrabold.otf",
+      "sha1": "00426a192211a65191dd5b3462ddab2a8ea9496a"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Alt Extra Condensed Light Italic.otf",
+      "sha1": "af8c0c9e0be03c4a9d6aac596ded76b7b28eba5d"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Alt Extra Condensed Light.otf",
+      "sha1": "8bb076578bd20573fa9fc4e9414641d8f025d29d"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Alt Extra Condensed Regular Italic.otf",
+      "sha1": "c8e84c4c611aed4fa27769e10e894abe3c7b6ba8"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Alt Extra Condensed Regular.otf",
+      "sha1": "454e3878c21c24864d1eac2f6829900ab102c9f4"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Alt Extra Condensed Semibold Italic.otf",
+      "sha1": "55500f3f0529e670e552c04c23b962c0e9bdcb21"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Alt Extra Condensed Semibold.otf",
+      "sha1": "475abe9cb5f3bbdda7a9df2b99cd47f38bac3f8c"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Alt Extra Condensed Thin Italic.otf",
+      "sha1": "4d33f8d40bc7dc6ef75ac97ac3a0240cf7b8a833"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Alt Extra Condensed Thin.otf",
+      "sha1": "5a3d51587eea337fb705c10b45da8b2e73b33a1d"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Alt Extrabold Italic.otf",
+      "sha1": "9d740349fab6101dbe4d0e5e2aa0c4ea20a8a840"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Alt Extrabold.otf",
+      "sha1": "252f07874c0497f568ffabe62d3336b4420b3987"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Alt Light Italic.otf",
+      "sha1": "b39efd7949d4176c8f68e364a79533ff927f5ad4"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Alt Light.otf",
+      "sha1": "813f4df23bb5c7a45f886bac87744086c72baf2c"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Alt Regular Italic.otf",
+      "sha1": "8378a9f9a92f4ceae7f8aefc4cff4b21d5d68835"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Alt Regular.otf",
+      "sha1": "2f3cc6352584bf384116bf95482e0305b0aa335e"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Alt Semibold Italic.otf",
+      "sha1": "4b0ba6ee33eacc03b1a660e0b71d74dce6529ce1"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Alt Semibold.otf",
+      "sha1": "0e7384ac2e994e4cb81fd142a34e5fe43f250b22"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Alt Thin Italic.otf",
+      "sha1": "17c3454b265a4efeec846d6f2f6027e03dc6e6d1"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Alt Thin.otf",
+      "sha1": "c8a0805e0903ce1a10b532d6d711d59b961ae673"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Black Italic.otf",
+      "sha1": "f52ea75a1cd7e5a426f6d26bfec5b05197de46e2"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Black.otf",
+      "sha1": "94159dcb3cba9e8702b22caa2ff9bc74c03b4c70"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Bold Italic.otf",
+      "sha1": "204e96358fcb5e2eb9a7c77c3643adebb60b382a"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Bold.otf",
+      "sha1": "411bff1d3b8f0144f1685c94a21156a53848d5a6"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Condensed Black Italic.otf",
+      "sha1": "2b919bbb43e5d8c445ad14db9ef360eab915c924"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Condensed Black.otf",
+      "sha1": "3df22b27febf0c304d0ce2715fb86c03c8505590"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Condensed Bold Italic.otf",
+      "sha1": "5f5725bb70c5b836dc27c008a6a65b1abc0e87fa"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Condensed Bold.otf",
+      "sha1": "92bb573997e69556c792d3c4d4c0647737c11fd5"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Condensed Extrabold Italic.otf",
+      "sha1": "825af9d8a3c1661928a90bc9eadc78eb1e35f8a0"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Condensed Extrabold.otf",
+      "sha1": "7c7b8fb8804ba27898fbcf662dd992d3dd28f535"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Condensed Light Italic.otf",
+      "sha1": "73745d37e8e59c6de9fb9eec5de2eeda0c243d82"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Condensed Light.otf",
+      "sha1": "742e5e49a20cbfbf678a282265741d21cc31ec1a"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Condensed Regular Italic.otf",
+      "sha1": "53326d2f2effa59ca96996b003a8fe5ff1d13651"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Condensed Regular.otf",
+      "sha1": "131adfcb494dba70233ceb9a8965cfd8f31b47ba"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Condensed Semibold Italic.otf",
+      "sha1": "27e5b09e680f6c55ad6a4eed0658e5b78b238cd5"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Condensed Semibold.otf",
+      "sha1": "e9d098fbd8d7e90b5d120372025827f18cc93c57"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Condensed Thin Italic.otf",
+      "sha1": "e926f621c68ba21d1dc5dda3ba38f7e03a5584b9"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Condensed Thin.otf",
+      "sha1": "83b7543e3dee9dc40f33b521cea21dddfc682c53"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Extra Condensed Black Italic.otf",
+      "sha1": "8ba22361ad5f24974c1e93c12c187f4ccfeb919c"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Extra Condensed Black.otf",
+      "sha1": "789145b9b119bc00ce2872d52f237a650289f12e"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Extra Condensed Bold Italic.otf",
+      "sha1": "d0066ff673838a07be81ca8d4c9bcc70b926c1c6"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Extra Condensed Bold.otf",
+      "sha1": "9cf77b20c9bbca1f252a08f89e7fdab697525a22"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Extra Condensed Extrabold Italic.otf",
+      "sha1": "a913e73ebe2efa375af309d71885d48e200378c8"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Extra Condensed Extrabold.otf",
+      "sha1": "7fcd756fc10d9d7c9a43a220238894f516aea9e4"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Extra Condensed Light Italic.otf",
+      "sha1": "7fd1e583be8784accdaf1b8faca2aad3c7efac04"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Extra Condensed Light.otf",
+      "sha1": "5990e923676fdcb4864ff89900a13d494eb37fb1"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Extra Condensed Regular Italic.otf",
+      "sha1": "fa5d12689c5173e3e1289e9a35a0efa717d16f96"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Extra Condensed Regular.otf",
+      "sha1": "624493916cad1adea04257cc97cce506a513b671"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Extra Condensed Semibold Italic.otf",
+      "sha1": "0dc650403e6aa929efd594edfd7da39b44a09563"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Extra Condensed Semibold.otf",
+      "sha1": "ce2bf1d0e28c7dbe5261516cedfa1982ce00256a"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Extra Condensed Thin Italic.otf",
+      "sha1": "2c2db16d14732bbf3840c3c91c9117c4d0cdfe61"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Extra Condensed Thin.otf",
+      "sha1": "e56453fdd25d05730d8fbdeb907d4c358a2bb241"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Extrabold Italic.otf",
+      "sha1": "12031775567935b01ec50773ad63e8b148563773"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Extrabold.otf",
+      "sha1": "01ed725f5618902e19911eccac005c7069bc8017"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova ScOsf Black Italic.otf",
+      "sha1": "58f880d1cf8b36ee865b1c2eeedfce85328422bf"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova ScOsf Black.otf",
+      "sha1": "196c383a3d8ea311a5dd1b090358f74589632df6"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova ScOsf Bold Italic.otf",
+      "sha1": "3b6c816ed2819d173816537f76872fefcefeaebd"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova ScOsf Bold.otf",
+      "sha1": "4cdd050a5ad857d53a37e040ee324df51246db3a"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova ScOsf Condensed Black Italic.otf",
+      "sha1": "485541e50846cef9968d52de6da6ddd8fcdb5b35"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova ScOsf Condensed Black.otf",
+      "sha1": "dbc77e713cb148a016d026c05ff097e0549c76a5"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova ScOsf Condensed Bold Italic.otf",
+      "sha1": "77684be099af927b7911a807bbeab848f82a8d0a"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova ScOsf Condensed Bold.otf",
+      "sha1": "1270abda34e6b387633b4ff68e5cdd9602abd796"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova ScOsf Condensed Extrabold Italic.otf",
+      "sha1": "d5c3acccfecb340f7613c4ce5c1fb352601a3136"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova ScOsf Condensed Extrabold.otf",
+      "sha1": "31dc9ae92f57c905b97f0f2a62ede12e621545b2"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova ScOsf Condensed Light Italic.otf",
+      "sha1": "b2134845428a7ad4a01553fabeec8532247d3651"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova ScOsf Condensed Light.otf",
+      "sha1": "1edbd7e93373d560cce6ccce9577933ad3c70c8f"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova ScOsf Condensed Regular Italic.otf",
+      "sha1": "69adb3ab4f2ebba65a67bc7345173fcaccde66db"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova ScOsf Condensed Regular.otf",
+      "sha1": "49fc24bc76110cb236ca21f75e4afa89ea5affb9"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova ScOsf Condensed Semibold Italic.otf",
+      "sha1": "acc80094ec9c8b7523dbbf0b67de3a79fe82596e"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova ScOsf Condensed Semibold.otf",
+      "sha1": "8b441ea2a101965c5e71b4203f9c9ea95c50f47a"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova ScOsf Condensed Thin Italic.otf",
+      "sha1": "0392dcb8eaaf12c7da4991e34458fc53f1f2c32a"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova ScOsf Condensed Thin.otf",
+      "sha1": "2ca92034ac2aaee9b217cf5de8b3cea2ab0bdd54"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova ScOsf Extra Condensed Black Italic.otf",
+      "sha1": "d3f5a8852ad8c0f17d1e70823bbde4ca01973814"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova ScOsf Extra Condensed Black.otf",
+      "sha1": "0c60b69f4fe13ae8d1f0410316bc86f8756b82a3"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova ScOsf Extra Condensed Bold Italic.otf",
+      "sha1": "e4ac6cb773c35df34f9d0bd8fb25b3c43b07159c"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova ScOsf Extra Condensed Bold.otf",
+      "sha1": "808fc2edd57fcc75e121553539977d783f8c09ab"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova ScOsf Extra Condensed Extrabold Italic.otf",
+      "sha1": "d80828f764b230e437df26070a26791778934530"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova ScOsf Extra Condensed Extrabold.otf",
+      "sha1": "7263f70c96f6c36917300bafef021e71af6b5d05"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova ScOsf Extra Condensed Light Italic.otf",
+      "sha1": "6dc28e972920a2ba30b1fa669b1007ecec2cbb00"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova ScOsf Extra Condensed Light.otf",
+      "sha1": "5808f3bfdbf62fa860070e901a9248fd0ab9b09d"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova ScOsf Extra Condensed Regular Italic.otf",
+      "sha1": "96a8ace5427134d06b8d48aeffc9a2916593621d"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova ScOsf Extra Condensed Regular.otf",
+      "sha1": "57d2eab4575aaa87167065a5f765e163e4e843e5"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova ScOsf Extra Condensed Semibold Italic.otf",
+      "sha1": "76eea98fc6f40248b1eef3c0bf7a5eca77f96ec3"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova ScOsf Extra Condensed Semibold.otf",
+      "sha1": "27b9cf5d0c0dfd04c3ea349d920091a232f74a12"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova ScOsf Extra Condensed Thin Italic.otf",
+      "sha1": "3381f23b0797613aae91b4c57fdabb5892374f1a"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova ScOsf Extra Condensed Thin.otf",
+      "sha1": "29e8ccf9f63f01ed3bc4c350d40efe3b4963aaf8"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova ScOsf Extrabold Italic.otf",
+      "sha1": "98a3fde5de639a6a7f972f785654086484b2c7d4"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova ScOsf Extrabold.otf",
+      "sha1": "97b48d5d7f93c80e5296dbd8b848dadc32d8e010"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova ScOsf Light Italic.otf",
+      "sha1": "5bed711d24d666cdcf7b37e36a017ae874020a98"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova ScOsf Light.otf",
+      "sha1": "b0c8df672f84321e49a3a6774726bc1dd13e7184"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova ScOsf Regular Italic.otf",
+      "sha1": "8f4db8f88b9ad667ea06c74862c0bb44c944a507"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova ScOsf Regular.otf",
+      "sha1": "5a696f0f4e0e25cb38273e913176650605afaae0"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova ScOsf Semibold Italic.otf",
+      "sha1": "c409f78fe3ead9fca10efae5e998e5b5db0ea546"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova ScOsf Semibold.otf",
+      "sha1": "493662ace509b0349d09ffcc8a7aa032875908d9"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova ScOsf Thin Italic.otf",
+      "sha1": "eb2e4080222a54157e6eaad273e37b1fc77fb246"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova ScOsf Thin.otf",
+      "sha1": "b00d0349e0a7215509d11dd40777d26071f863e5"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Semibold Italic.otf",
+      "sha1": "1ed3ea4ed80a9996d289446589b07cf7ed0f0141"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Semibold.otf",
+      "sha1": "74a699b9dd3f05a8e4d21648bc60ef75ed791bd4"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Thin Italic.otf",
+      "sha1": "20345d154c98aa765772edce23c59adbb2a1ae76"
+    },
+    {
+      "path": "assests/fonts/Proxima Nova Thin.otf",
+      "sha1": "d1255358e8dd8b7bcc9980ad80cde9e6a707d3db"
+    },
+    {
+      "path": "assests/fonts/ProximaNova-Regular.otf",
+      "sha1": "28d04eb938c05b5158a69a709682d4f0517a59ab"
+    }
+  ]
+}

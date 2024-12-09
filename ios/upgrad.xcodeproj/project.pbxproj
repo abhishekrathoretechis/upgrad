@@ -14,6 +14,129 @@
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		7699B88040F8A987B510C191 /* libPods-upgrad-upgradTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-upgrad-upgradTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		8A66C73ACA2041C5B927D129 /* Proxima Nova Alt Black Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 8012C1B7FC984DC389DC899A /* Proxima Nova Alt Black Italic.otf */; };
+		3FB2B69132EE4135BA30087B /* Proxima Nova Alt Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = EA8C79A895C0408CB8319AD6 /* Proxima Nova Alt Black.otf */; };
+		0089136747044D7A8490AE2B /* Proxima Nova Alt Bold Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = C18BED16CF7A40DDB727614C /* Proxima Nova Alt Bold Italic.otf */; };
+		9E88BAF7EEC743FBA06541B8 /* Proxima Nova Alt Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 3A04F5C978D640259281D175 /* Proxima Nova Alt Bold.otf */; };
+		B5990054EAD7444E815956EF /* Proxima Nova Alt Condensed Black Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2AF150EB426C4AA298713E83 /* Proxima Nova Alt Condensed Black Italic.otf */; };
+		B7ACFB44DD2D458AB8F6A65A /* Proxima Nova Alt Condensed Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = D073CAC0D5A648EBB1DA842D /* Proxima Nova Alt Condensed Black.otf */; };
+		2C8F91CB719D48FDBA329C1F /* Proxima Nova Alt Condensed Bold Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 1474F46BE01244B898DD3E30 /* Proxima Nova Alt Condensed Bold Italic.otf */; };
+		4E502ACC4C3A4A85BA589FF8 /* Proxima Nova Alt Condensed Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9A860858E7324CCF97401041 /* Proxima Nova Alt Condensed Bold.otf */; };
+		5E200BF93B0F4B7295B6913E /* Proxima Nova Alt Condensed Extrabold Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 96BFF1B1AAE24067B93F4C45 /* Proxima Nova Alt Condensed Extrabold Italic.otf */; };
+		046E3C73791A4237A2309290 /* Proxima Nova Alt Condensed Extrabold.otf in Resources */ = {isa = PBXBuildFile; fileRef = C3B2D9842A60409FBFD81B4D /* Proxima Nova Alt Condensed Extrabold.otf */; };
+		E951323BC833456898D99351 /* Proxima Nova Alt Condensed Light Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = C51A45D7F4BF495EAA85E513 /* Proxima Nova Alt Condensed Light Italic.otf */; };
+		6343A740B8C348B38A9F4E78 /* Proxima Nova Alt Condensed Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = AAEE14CE4299430682FEA899 /* Proxima Nova Alt Condensed Light.otf */; };
+		9CF8CD047D7544F3BC780206 /* Proxima Nova Alt Condensed Regular Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 8D1A5423014848F5B087AB87 /* Proxima Nova Alt Condensed Regular Italic.otf */; };
+		49F92E9677EA43E684280B9A /* Proxima Nova Alt Condensed Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = CC1D903007DC48D9AAFDF167 /* Proxima Nova Alt Condensed Regular.otf */; };
+		3BF05DE018C14CC6B43D44A5 /* Proxima Nova Alt Condensed Semibold Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9A8480B014D24F7AB836A237 /* Proxima Nova Alt Condensed Semibold Italic.otf */; };
+		BAF7FC8C947A41DD96AB6120 /* Proxima Nova Alt Condensed Semibold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5581399EEEFB4239B4B6E380 /* Proxima Nova Alt Condensed Semibold.otf */; };
+		A7DDF19F95554223B00527A9 /* Proxima Nova Alt Condensed Thin Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 3755F887F5FA4A4A8C99F543 /* Proxima Nova Alt Condensed Thin Italic.otf */; };
+		6A1770219609477F9F91577A /* Proxima Nova Alt Condensed Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = E2C3296DD6DC44918EFEC8BE /* Proxima Nova Alt Condensed Thin.otf */; };
+		FB57F59D2E5D47E3ACF7F38B /* Proxima Nova Alt Extra Condensed Black Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = B916D413AF59419D99A11384 /* Proxima Nova Alt Extra Condensed Black Italic.otf */; };
+		C2D0167EE23A4AF99582A4DC /* Proxima Nova Alt Extra Condensed Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = 02E431DF390C4631BA6B1482 /* Proxima Nova Alt Extra Condensed Black.otf */; };
+		C0BDA7C3BBEE4F78B0772D96 /* Proxima Nova Alt Extra Condensed Bold Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 317207DB00974CBF89895495 /* Proxima Nova Alt Extra Condensed Bold Italic.otf */; };
+		E1B7D3FA2D7C43539F9E4DEF /* Proxima Nova Alt Extra Condensed Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = C8038F2A70FF416BB416DEF7 /* Proxima Nova Alt Extra Condensed Bold.otf */; };
+		60DC67D65C594254A59C29CE /* Proxima Nova Alt Extra Condensed Extrabold Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 0571EC861FF142588D77A839 /* Proxima Nova Alt Extra Condensed Extrabold Italic.otf */; };
+		E54806175CC74AB4A3D0E947 /* Proxima Nova Alt Extra Condensed Extrabold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 3A9F72607BE74196A45BF8BB /* Proxima Nova Alt Extra Condensed Extrabold.otf */; };
+		35314CF218F6476780DDC00F /* Proxima Nova Alt Extra Condensed Light Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 8B0B894B662241459EE0B38A /* Proxima Nova Alt Extra Condensed Light Italic.otf */; };
+		EC7ACB9738364FD9AA5B299D /* Proxima Nova Alt Extra Condensed Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 15A04F0B819444A88839AAA0 /* Proxima Nova Alt Extra Condensed Light.otf */; };
+		1AE04D50FFAE4403BA2B831D /* Proxima Nova Alt Extra Condensed Regular Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5CDDA05AD6C442C2AFAC428B /* Proxima Nova Alt Extra Condensed Regular Italic.otf */; };
+		E516BB6127E04BACB8644BE3 /* Proxima Nova Alt Extra Condensed Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 8A18ACAB79BA4F49BC16D6B6 /* Proxima Nova Alt Extra Condensed Regular.otf */; };
+		1D983E8FFFD14873B3A040C0 /* Proxima Nova Alt Extra Condensed Semibold Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 81339BFD7A514A32B01A7EB4 /* Proxima Nova Alt Extra Condensed Semibold Italic.otf */; };
+		ED9C46D17B164604BBD637BF /* Proxima Nova Alt Extra Condensed Semibold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5DA76DFED4D0424386A6240B /* Proxima Nova Alt Extra Condensed Semibold.otf */; };
+		CD7A3DCB78F64012AF6ECFA5 /* Proxima Nova Alt Extra Condensed Thin Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = DF4200AB25B14C02A6D2B990 /* Proxima Nova Alt Extra Condensed Thin Italic.otf */; };
+		8FF61DDFBD584C68966D9EA3 /* Proxima Nova Alt Extra Condensed Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = F1D1259CAA384F05B2CD142E /* Proxima Nova Alt Extra Condensed Thin.otf */; };
+		45FA1B38A5E94BD195381BDB /* Proxima Nova Alt Extrabold Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = DE0E50BFF97E4512AF765813 /* Proxima Nova Alt Extrabold Italic.otf */; };
+		C03DAE510980435B866C9155 /* Proxima Nova Alt Extrabold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5F4558161D0B4126A556E3EB /* Proxima Nova Alt Extrabold.otf */; };
+		C42AACE5C351469FB866FA03 /* Proxima Nova Alt Light Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = E85D8D37E3B54BB09C2980A0 /* Proxima Nova Alt Light Italic.otf */; };
+		47B1A9CA4273439FADE7E6CF /* Proxima Nova Alt Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 183FC113851749A687BC5C89 /* Proxima Nova Alt Light.otf */; };
+		E5E3634A762A45C784B7D57D /* Proxima Nova Alt Regular Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = E4466346E891483B839B9C16 /* Proxima Nova Alt Regular Italic.otf */; };
+		2240E81BB5B7440EBA0C2179 /* Proxima Nova Alt Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 1F2921C7603149608E179B4A /* Proxima Nova Alt Regular.otf */; };
+		DA8A4DB64D0A47868E6ADCE9 /* Proxima Nova Alt Semibold Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 6719A28D618A40E9ACA7B56A /* Proxima Nova Alt Semibold Italic.otf */; };
+		BEB5E57D981E459F97850550 /* Proxima Nova Alt Semibold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 93731A915D70481AA966809A /* Proxima Nova Alt Semibold.otf */; };
+		6FB114284ECD4F86BA617845 /* Proxima Nova Alt Thin Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 7213593E3929420B9785657F /* Proxima Nova Alt Thin Italic.otf */; };
+		9CBDAB62B61448E7964381CB /* Proxima Nova Alt Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = CF77F0CA5E6D4C2B841E8101 /* Proxima Nova Alt Thin.otf */; };
+		B8DF61B3E472480AAC92B970 /* Proxima Nova Black Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 3DA3BA84F1714F1FAEDD32E2 /* Proxima Nova Black Italic.otf */; };
+		1B5F54B5552344ACAEF506D0 /* Proxima Nova Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = AC8AAFADEB9D4C59A7FDA7B8 /* Proxima Nova Black.otf */; };
+		0D74D4712F8C40BAA1798BD5 /* Proxima Nova Bold Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = B977302768884FFCA6927ABC /* Proxima Nova Bold Italic.otf */; };
+		3A53492DF3D2446F820A9E2A /* Proxima Nova Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = E95B3C895BEB43ECAACDE526 /* Proxima Nova Bold.otf */; };
+		C0A15560154148FF8E6A2947 /* Proxima Nova Condensed Black Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = F5910D747E5D4D87BB5B446F /* Proxima Nova Condensed Black Italic.otf */; };
+		5BB9F23D5F7640F9A726DF05 /* Proxima Nova Condensed Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = BA1B6B7573F345DBBC733CFF /* Proxima Nova Condensed Black.otf */; };
+		3AE222A037F54984BECBEB73 /* Proxima Nova Condensed Bold Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = FFEDA820889F40B081F06D1C /* Proxima Nova Condensed Bold Italic.otf */; };
+		246B07BF16EE470BB67E768A /* Proxima Nova Condensed Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = BE9D4744BB3247A39C7B5AFF /* Proxima Nova Condensed Bold.otf */; };
+		48E04A84B69C476CACF07DE2 /* Proxima Nova Condensed Extrabold Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = A4C4F1A3D731415E8A611BE8 /* Proxima Nova Condensed Extrabold Italic.otf */; };
+		13EE39B13FE04D319789351A /* Proxima Nova Condensed Extrabold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 66C0FB7DE2EA42F98B5EC1DB /* Proxima Nova Condensed Extrabold.otf */; };
+		C1925CF29B924239934C18AE /* Proxima Nova Condensed Light Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = B8F899161AE44BE6B7DF5271 /* Proxima Nova Condensed Light Italic.otf */; };
+		7363E8BCF5AF48708E4C1BED /* Proxima Nova Condensed Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9497EF31FD8C44B7A5BB63E1 /* Proxima Nova Condensed Light.otf */; };
+		31572D4077C748E788D57020 /* Proxima Nova Condensed Regular Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 00A96EAC3375411AA0835733 /* Proxima Nova Condensed Regular Italic.otf */; };
+		564B3EE98D6341889D95410B /* Proxima Nova Condensed Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 1E459C5DA7084A97BA75C614 /* Proxima Nova Condensed Regular.otf */; };
+		0AC9DDA99B0E4BD9A39EE134 /* Proxima Nova Condensed Semibold Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9F9D79830065437D8D4B7D11 /* Proxima Nova Condensed Semibold Italic.otf */; };
+		8141CD12FA874EAFA7B16A97 /* Proxima Nova Condensed Semibold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 65C5689C592A4CA9BCD36D2F /* Proxima Nova Condensed Semibold.otf */; };
+		CCC9802B35B040AEB1CCE375 /* Proxima Nova Condensed Thin Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2A97C76A8D8A4011A8482EFF /* Proxima Nova Condensed Thin Italic.otf */; };
+		0153DDC03C57491A9B37D9C7 /* Proxima Nova Condensed Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = 81A40109E2314C5691F95DB3 /* Proxima Nova Condensed Thin.otf */; };
+		0D94E6665D2A4DCE8346365C /* Proxima Nova Extra Condensed Black Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 546EEEE46A904A22B650288F /* Proxima Nova Extra Condensed Black Italic.otf */; };
+		CA98F8AF3C26471A9FF669DA /* Proxima Nova Extra Condensed Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = F27B67ECD76B454D8784C2F4 /* Proxima Nova Extra Condensed Black.otf */; };
+		C5A42F0144B94051AA5A6317 /* Proxima Nova Extra Condensed Bold Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = B894AEEC86F34977919DA4FD /* Proxima Nova Extra Condensed Bold Italic.otf */; };
+		42AC86053C95469B9B228018 /* Proxima Nova Extra Condensed Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 0CDC40510F4940E6AC01994C /* Proxima Nova Extra Condensed Bold.otf */; };
+		EB9AE32598E047D09FDC73E5 /* Proxima Nova Extra Condensed Extrabold Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 24572A4C35DF44E69E6DFA9C /* Proxima Nova Extra Condensed Extrabold Italic.otf */; };
+		1F82122D80464D6ABE411000 /* Proxima Nova Extra Condensed Extrabold.otf in Resources */ = {isa = PBXBuildFile; fileRef = E4E5C97F35EA4C7B8F783E2C /* Proxima Nova Extra Condensed Extrabold.otf */; };
+		7BC2CE2A9AA34536AD4FD285 /* Proxima Nova Extra Condensed Light Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 87084AF3EB0B4E45919AA8B9 /* Proxima Nova Extra Condensed Light Italic.otf */; };
+		6F255959981841FB857BCDC2 /* Proxima Nova Extra Condensed Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9F64930EC339428C94874D0F /* Proxima Nova Extra Condensed Light.otf */; };
+		CEB5BEDEE31A4171B54581CF /* Proxima Nova Extra Condensed Regular Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 65939BD7D3A34BD0AF2D9F41 /* Proxima Nova Extra Condensed Regular Italic.otf */; };
+		99328B228A81440D91938C5D /* Proxima Nova Extra Condensed Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5C6E7837EE78443EB710BC07 /* Proxima Nova Extra Condensed Regular.otf */; };
+		C74B649EF1C7416C8B46118C /* Proxima Nova Extra Condensed Semibold Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 851BC2F5D9B24F7987A96AB1 /* Proxima Nova Extra Condensed Semibold Italic.otf */; };
+		C0F8A388D6A54BEAAE4F88B2 /* Proxima Nova Extra Condensed Semibold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 498FD4BF700A4542A5272977 /* Proxima Nova Extra Condensed Semibold.otf */; };
+		923D5D6BA6A44EB993937068 /* Proxima Nova Extra Condensed Thin Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 3AED86FA991F4A509182028B /* Proxima Nova Extra Condensed Thin Italic.otf */; };
+		0E90E0B87E844F25994A9D86 /* Proxima Nova Extra Condensed Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = 7BAED52B5F6546E99F0DA174 /* Proxima Nova Extra Condensed Thin.otf */; };
+		40898434AE844AB49023420A /* Proxima Nova Extrabold Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 00D4CB73AA8F41D5860835BE /* Proxima Nova Extrabold Italic.otf */; };
+		8F84764FB80548DC9BB706A3 /* Proxima Nova Extrabold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 17FD5D58A8884704B683200C /* Proxima Nova Extrabold.otf */; };
+		8527256855114B9797E815CE /* Proxima Nova ScOsf Black Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 001E7B3E5AF44FA3A08BB9F3 /* Proxima Nova ScOsf Black Italic.otf */; };
+		5A24EB9016D842C8A029F8AA /* Proxima Nova ScOsf Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = FF1E79FA3D504D1795761D72 /* Proxima Nova ScOsf Black.otf */; };
+		FC8E2B3B234B4820BADBBCFA /* Proxima Nova ScOsf Bold Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 69FD355C5D08432E8D8C0E45 /* Proxima Nova ScOsf Bold Italic.otf */; };
+		282546FAB1794A8E84EF94E9 /* Proxima Nova ScOsf Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9A4A7120C12D49DAB0A62874 /* Proxima Nova ScOsf Bold.otf */; };
+		08D19E5CE02A4EC198E75157 /* Proxima Nova ScOsf Condensed Black Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 449A5A5ABB0C4A70B1D46D4B /* Proxima Nova ScOsf Condensed Black Italic.otf */; };
+		2A0F9BD0CA814D7D9C009EAE /* Proxima Nova ScOsf Condensed Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = 0554003137414C818088B76A /* Proxima Nova ScOsf Condensed Black.otf */; };
+		898B7D7C0EC94BF5810925AB /* Proxima Nova ScOsf Condensed Bold Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = E00E3916AD554784983F4BD8 /* Proxima Nova ScOsf Condensed Bold Italic.otf */; };
+		B280837C90444969A8833504 /* Proxima Nova ScOsf Condensed Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = A7C8149DA40544AF969426E6 /* Proxima Nova ScOsf Condensed Bold.otf */; };
+		F12BD5753DF24AD7B0F037E5 /* Proxima Nova ScOsf Condensed Extrabold Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 6DF76F02A9E24298AE8E8470 /* Proxima Nova ScOsf Condensed Extrabold Italic.otf */; };
+		B885FB02F159427EB4C19C1B /* Proxima Nova ScOsf Condensed Extrabold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 230127A781D94354A997CABC /* Proxima Nova ScOsf Condensed Extrabold.otf */; };
+		6A018FDF14D341DC8DFCE28F /* Proxima Nova ScOsf Condensed Light Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 7470E5219E8F4722B4AFC1F5 /* Proxima Nova ScOsf Condensed Light Italic.otf */; };
+		240B7F6678D647A69EAC1FAC /* Proxima Nova ScOsf Condensed Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = EE95E54702D04842B1E8B1DD /* Proxima Nova ScOsf Condensed Light.otf */; };
+		EDA75DEBAF554F6BAC220DF8 /* Proxima Nova ScOsf Condensed Regular Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = F9364517C34947C99B9275ED /* Proxima Nova ScOsf Condensed Regular Italic.otf */; };
+		67249518BD054D66BA2D58BA /* Proxima Nova ScOsf Condensed Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 8014825644DB42EAACEFF34B /* Proxima Nova ScOsf Condensed Regular.otf */; };
+		CD1C8F027BB64252AD56D1A0 /* Proxima Nova ScOsf Condensed Semibold Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = F84968C61F02400A812B6D55 /* Proxima Nova ScOsf Condensed Semibold Italic.otf */; };
+		46A61BE48071401688E414DC /* Proxima Nova ScOsf Condensed Semibold.otf in Resources */ = {isa = PBXBuildFile; fileRef = F0EEF41C72374577933B730C /* Proxima Nova ScOsf Condensed Semibold.otf */; };
+		5692298DDAEE4DE58B7AB54B /* Proxima Nova ScOsf Condensed Thin Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = DC534B24D7034C7C9F7FF1AD /* Proxima Nova ScOsf Condensed Thin Italic.otf */; };
+		40DE98FB35D347858C56E60B /* Proxima Nova ScOsf Condensed Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = BEC7D0F1EC9046668BF4E652 /* Proxima Nova ScOsf Condensed Thin.otf */; };
+		2AEC0AFA10F54BD6A36786AE /* Proxima Nova ScOsf Extra Condensed Black Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 6E0E1DFEADF54A3DB811CE72 /* Proxima Nova ScOsf Extra Condensed Black Italic.otf */; };
+		5E68E169163641A4AA91D1E3 /* Proxima Nova ScOsf Extra Condensed Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = CC81BAB7DD6A4195B866969E /* Proxima Nova ScOsf Extra Condensed Black.otf */; };
+		F3DD7036177C4A8591C0E73C /* Proxima Nova ScOsf Extra Condensed Bold Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 571559D25B104AEE8B751CF5 /* Proxima Nova ScOsf Extra Condensed Bold Italic.otf */; };
+		F2EE3C78C3074679AFFC05D9 /* Proxima Nova ScOsf Extra Condensed Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 283A298B3BC9401BAE1439D1 /* Proxima Nova ScOsf Extra Condensed Bold.otf */; };
+		0BFBE2ADA38649B0AA45EEC8 /* Proxima Nova ScOsf Extra Condensed Extrabold Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = FB21347AE7464CCAB04C8F00 /* Proxima Nova ScOsf Extra Condensed Extrabold Italic.otf */; };
+		5FA7F643FA4F4BAAB951078B /* Proxima Nova ScOsf Extra Condensed Extrabold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 6E9CEB950A2F41BE881C7A57 /* Proxima Nova ScOsf Extra Condensed Extrabold.otf */; };
+		268773A2970A45F59FD9B142 /* Proxima Nova ScOsf Extra Condensed Light Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = F90200B2BBA64F029471B813 /* Proxima Nova ScOsf Extra Condensed Light Italic.otf */; };
+		AC981A7AFE044E5EAA8E6F99 /* Proxima Nova ScOsf Extra Condensed Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = AAB9BB0825C24848AE7AB647 /* Proxima Nova ScOsf Extra Condensed Light.otf */; };
+		0F9501C6CF114F148250A543 /* Proxima Nova ScOsf Extra Condensed Regular Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = BCF958C2CA63490898A4AC87 /* Proxima Nova ScOsf Extra Condensed Regular Italic.otf */; };
+		73B0EEDBC07E4D2698DA958B /* Proxima Nova ScOsf Extra Condensed Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 598AE199EBD04E34B362335C /* Proxima Nova ScOsf Extra Condensed Regular.otf */; };
+		099E07A5E9CB41BBB7336F35 /* Proxima Nova ScOsf Extra Condensed Semibold Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 20004937540A4861B29B01E4 /* Proxima Nova ScOsf Extra Condensed Semibold Italic.otf */; };
+		21B145A321E44A2BB6A26B4D /* Proxima Nova ScOsf Extra Condensed Semibold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 728C3D47D1764256AEE47194 /* Proxima Nova ScOsf Extra Condensed Semibold.otf */; };
+		EE0C2AEDF0DB459BB34191CA /* Proxima Nova ScOsf Extra Condensed Thin Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 212D9C42965F492AB577CEE8 /* Proxima Nova ScOsf Extra Condensed Thin Italic.otf */; };
+		CBDE6CF6F7614403B10D714B /* Proxima Nova ScOsf Extra Condensed Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = 1675458F385E4F769F305144 /* Proxima Nova ScOsf Extra Condensed Thin.otf */; };
+		015FA87C818A49EB9A042620 /* Proxima Nova ScOsf Extrabold Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = DC1BF1D35EDE4766B615B5A6 /* Proxima Nova ScOsf Extrabold Italic.otf */; };
+		5A3E115236DF4B8BA28176DB /* Proxima Nova ScOsf Extrabold.otf in Resources */ = {isa = PBXBuildFile; fileRef = A6DEAF00E51A4595B7985E98 /* Proxima Nova ScOsf Extrabold.otf */; };
+		B8C107103245407AB7ECCF13 /* Proxima Nova ScOsf Light Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 427546A4D5154D868990D39D /* Proxima Nova ScOsf Light Italic.otf */; };
+		27A513D650E5451EA3EEA4D0 /* Proxima Nova ScOsf Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2ECB688166EB49618F31DA98 /* Proxima Nova ScOsf Light.otf */; };
+		5C50B507B8A248CA81383C0B /* Proxima Nova ScOsf Regular Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = CAAA832A598443B4B7ADE987 /* Proxima Nova ScOsf Regular Italic.otf */; };
+		69506C9189744B6F8E59E33D /* Proxima Nova ScOsf Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 6F02430D6A794B669E0CC1ED /* Proxima Nova ScOsf Regular.otf */; };
+		847E5D3B95AB427F8B89C56A /* Proxima Nova ScOsf Semibold Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = D27C4818D73E4787919E7B28 /* Proxima Nova ScOsf Semibold Italic.otf */; };
+		12B9E17680B3427380693123 /* Proxima Nova ScOsf Semibold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 37EAE35C70654DCAA3332FBC /* Proxima Nova ScOsf Semibold.otf */; };
+		6E0DE09E24834FACBAA2C0DA /* Proxima Nova ScOsf Thin Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 214AE1B5A02440E2BDB2F946 /* Proxima Nova ScOsf Thin Italic.otf */; };
+		9195CD87BE444BCAA7BBB644 /* Proxima Nova ScOsf Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = CEF66FC9A5894A59984ADB85 /* Proxima Nova ScOsf Thin.otf */; };
+		0ADFBB6067104EA3831588C8 /* Proxima Nova Semibold Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 575E5F84BB874279AEA50ADF /* Proxima Nova Semibold Italic.otf */; };
+		7B43F6DFF1AC444EAAC6E903 /* Proxima Nova Semibold.otf in Resources */ = {isa = PBXBuildFile; fileRef = BB25308678574D5E9CF26826 /* Proxima Nova Semibold.otf */; };
+		6AD8E27B1BE04314B37D4EA9 /* Proxima Nova Thin Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 7D2CBF5D11DD4954AEB80398 /* Proxima Nova Thin Italic.otf */; };
+		0F67FD9834B746678555ED19 /* Proxima Nova Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = 6427562192A249AE8A6A5DC2 /* Proxima Nova Thin.otf */; };
+		EAEDA063008C446FA80E85B1 /* ProximaNova-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2D53F669F89742E8819C476C /* ProximaNova-Regular.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +168,129 @@
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = upgrad/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-upgrad-upgradTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-upgrad-upgradTests.release.xcconfig"; path = "Target Support Files/Pods-upgrad-upgradTests/Pods-upgrad-upgradTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		8012C1B7FC984DC389DC899A /* Proxima Nova Alt Black Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova Alt Black Italic.otf"; path = "../assests/fonts/Proxima Nova Alt Black Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		EA8C79A895C0408CB8319AD6 /* Proxima Nova Alt Black.otf */ = {isa = PBXFileReference; name = "Proxima Nova Alt Black.otf"; path = "../assests/fonts/Proxima Nova Alt Black.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		C18BED16CF7A40DDB727614C /* Proxima Nova Alt Bold Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova Alt Bold Italic.otf"; path = "../assests/fonts/Proxima Nova Alt Bold Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		3A04F5C978D640259281D175 /* Proxima Nova Alt Bold.otf */ = {isa = PBXFileReference; name = "Proxima Nova Alt Bold.otf"; path = "../assests/fonts/Proxima Nova Alt Bold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		2AF150EB426C4AA298713E83 /* Proxima Nova Alt Condensed Black Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova Alt Condensed Black Italic.otf"; path = "../assests/fonts/Proxima Nova Alt Condensed Black Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D073CAC0D5A648EBB1DA842D /* Proxima Nova Alt Condensed Black.otf */ = {isa = PBXFileReference; name = "Proxima Nova Alt Condensed Black.otf"; path = "../assests/fonts/Proxima Nova Alt Condensed Black.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		1474F46BE01244B898DD3E30 /* Proxima Nova Alt Condensed Bold Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova Alt Condensed Bold Italic.otf"; path = "../assests/fonts/Proxima Nova Alt Condensed Bold Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9A860858E7324CCF97401041 /* Proxima Nova Alt Condensed Bold.otf */ = {isa = PBXFileReference; name = "Proxima Nova Alt Condensed Bold.otf"; path = "../assests/fonts/Proxima Nova Alt Condensed Bold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		96BFF1B1AAE24067B93F4C45 /* Proxima Nova Alt Condensed Extrabold Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova Alt Condensed Extrabold Italic.otf"; path = "../assests/fonts/Proxima Nova Alt Condensed Extrabold Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		C3B2D9842A60409FBFD81B4D /* Proxima Nova Alt Condensed Extrabold.otf */ = {isa = PBXFileReference; name = "Proxima Nova Alt Condensed Extrabold.otf"; path = "../assests/fonts/Proxima Nova Alt Condensed Extrabold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		C51A45D7F4BF495EAA85E513 /* Proxima Nova Alt Condensed Light Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova Alt Condensed Light Italic.otf"; path = "../assests/fonts/Proxima Nova Alt Condensed Light Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		AAEE14CE4299430682FEA899 /* Proxima Nova Alt Condensed Light.otf */ = {isa = PBXFileReference; name = "Proxima Nova Alt Condensed Light.otf"; path = "../assests/fonts/Proxima Nova Alt Condensed Light.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		8D1A5423014848F5B087AB87 /* Proxima Nova Alt Condensed Regular Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova Alt Condensed Regular Italic.otf"; path = "../assests/fonts/Proxima Nova Alt Condensed Regular Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		CC1D903007DC48D9AAFDF167 /* Proxima Nova Alt Condensed Regular.otf */ = {isa = PBXFileReference; name = "Proxima Nova Alt Condensed Regular.otf"; path = "../assests/fonts/Proxima Nova Alt Condensed Regular.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9A8480B014D24F7AB836A237 /* Proxima Nova Alt Condensed Semibold Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova Alt Condensed Semibold Italic.otf"; path = "../assests/fonts/Proxima Nova Alt Condensed Semibold Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		5581399EEEFB4239B4B6E380 /* Proxima Nova Alt Condensed Semibold.otf */ = {isa = PBXFileReference; name = "Proxima Nova Alt Condensed Semibold.otf"; path = "../assests/fonts/Proxima Nova Alt Condensed Semibold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		3755F887F5FA4A4A8C99F543 /* Proxima Nova Alt Condensed Thin Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova Alt Condensed Thin Italic.otf"; path = "../assests/fonts/Proxima Nova Alt Condensed Thin Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E2C3296DD6DC44918EFEC8BE /* Proxima Nova Alt Condensed Thin.otf */ = {isa = PBXFileReference; name = "Proxima Nova Alt Condensed Thin.otf"; path = "../assests/fonts/Proxima Nova Alt Condensed Thin.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		B916D413AF59419D99A11384 /* Proxima Nova Alt Extra Condensed Black Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova Alt Extra Condensed Black Italic.otf"; path = "../assests/fonts/Proxima Nova Alt Extra Condensed Black Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		02E431DF390C4631BA6B1482 /* Proxima Nova Alt Extra Condensed Black.otf */ = {isa = PBXFileReference; name = "Proxima Nova Alt Extra Condensed Black.otf"; path = "../assests/fonts/Proxima Nova Alt Extra Condensed Black.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		317207DB00974CBF89895495 /* Proxima Nova Alt Extra Condensed Bold Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova Alt Extra Condensed Bold Italic.otf"; path = "../assests/fonts/Proxima Nova Alt Extra Condensed Bold Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		C8038F2A70FF416BB416DEF7 /* Proxima Nova Alt Extra Condensed Bold.otf */ = {isa = PBXFileReference; name = "Proxima Nova Alt Extra Condensed Bold.otf"; path = "../assests/fonts/Proxima Nova Alt Extra Condensed Bold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		0571EC861FF142588D77A839 /* Proxima Nova Alt Extra Condensed Extrabold Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova Alt Extra Condensed Extrabold Italic.otf"; path = "../assests/fonts/Proxima Nova Alt Extra Condensed Extrabold Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		3A9F72607BE74196A45BF8BB /* Proxima Nova Alt Extra Condensed Extrabold.otf */ = {isa = PBXFileReference; name = "Proxima Nova Alt Extra Condensed Extrabold.otf"; path = "../assests/fonts/Proxima Nova Alt Extra Condensed Extrabold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		8B0B894B662241459EE0B38A /* Proxima Nova Alt Extra Condensed Light Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova Alt Extra Condensed Light Italic.otf"; path = "../assests/fonts/Proxima Nova Alt Extra Condensed Light Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		15A04F0B819444A88839AAA0 /* Proxima Nova Alt Extra Condensed Light.otf */ = {isa = PBXFileReference; name = "Proxima Nova Alt Extra Condensed Light.otf"; path = "../assests/fonts/Proxima Nova Alt Extra Condensed Light.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		5CDDA05AD6C442C2AFAC428B /* Proxima Nova Alt Extra Condensed Regular Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova Alt Extra Condensed Regular Italic.otf"; path = "../assests/fonts/Proxima Nova Alt Extra Condensed Regular Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		8A18ACAB79BA4F49BC16D6B6 /* Proxima Nova Alt Extra Condensed Regular.otf */ = {isa = PBXFileReference; name = "Proxima Nova Alt Extra Condensed Regular.otf"; path = "../assests/fonts/Proxima Nova Alt Extra Condensed Regular.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		81339BFD7A514A32B01A7EB4 /* Proxima Nova Alt Extra Condensed Semibold Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova Alt Extra Condensed Semibold Italic.otf"; path = "../assests/fonts/Proxima Nova Alt Extra Condensed Semibold Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		5DA76DFED4D0424386A6240B /* Proxima Nova Alt Extra Condensed Semibold.otf */ = {isa = PBXFileReference; name = "Proxima Nova Alt Extra Condensed Semibold.otf"; path = "../assests/fonts/Proxima Nova Alt Extra Condensed Semibold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		DF4200AB25B14C02A6D2B990 /* Proxima Nova Alt Extra Condensed Thin Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova Alt Extra Condensed Thin Italic.otf"; path = "../assests/fonts/Proxima Nova Alt Extra Condensed Thin Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		F1D1259CAA384F05B2CD142E /* Proxima Nova Alt Extra Condensed Thin.otf */ = {isa = PBXFileReference; name = "Proxima Nova Alt Extra Condensed Thin.otf"; path = "../assests/fonts/Proxima Nova Alt Extra Condensed Thin.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		DE0E50BFF97E4512AF765813 /* Proxima Nova Alt Extrabold Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova Alt Extrabold Italic.otf"; path = "../assests/fonts/Proxima Nova Alt Extrabold Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		5F4558161D0B4126A556E3EB /* Proxima Nova Alt Extrabold.otf */ = {isa = PBXFileReference; name = "Proxima Nova Alt Extrabold.otf"; path = "../assests/fonts/Proxima Nova Alt Extrabold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E85D8D37E3B54BB09C2980A0 /* Proxima Nova Alt Light Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova Alt Light Italic.otf"; path = "../assests/fonts/Proxima Nova Alt Light Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		183FC113851749A687BC5C89 /* Proxima Nova Alt Light.otf */ = {isa = PBXFileReference; name = "Proxima Nova Alt Light.otf"; path = "../assests/fonts/Proxima Nova Alt Light.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E4466346E891483B839B9C16 /* Proxima Nova Alt Regular Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova Alt Regular Italic.otf"; path = "../assests/fonts/Proxima Nova Alt Regular Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		1F2921C7603149608E179B4A /* Proxima Nova Alt Regular.otf */ = {isa = PBXFileReference; name = "Proxima Nova Alt Regular.otf"; path = "../assests/fonts/Proxima Nova Alt Regular.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		6719A28D618A40E9ACA7B56A /* Proxima Nova Alt Semibold Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova Alt Semibold Italic.otf"; path = "../assests/fonts/Proxima Nova Alt Semibold Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		93731A915D70481AA966809A /* Proxima Nova Alt Semibold.otf */ = {isa = PBXFileReference; name = "Proxima Nova Alt Semibold.otf"; path = "../assests/fonts/Proxima Nova Alt Semibold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		7213593E3929420B9785657F /* Proxima Nova Alt Thin Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova Alt Thin Italic.otf"; path = "../assests/fonts/Proxima Nova Alt Thin Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		CF77F0CA5E6D4C2B841E8101 /* Proxima Nova Alt Thin.otf */ = {isa = PBXFileReference; name = "Proxima Nova Alt Thin.otf"; path = "../assests/fonts/Proxima Nova Alt Thin.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		3DA3BA84F1714F1FAEDD32E2 /* Proxima Nova Black Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova Black Italic.otf"; path = "../assests/fonts/Proxima Nova Black Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		AC8AAFADEB9D4C59A7FDA7B8 /* Proxima Nova Black.otf */ = {isa = PBXFileReference; name = "Proxima Nova Black.otf"; path = "../assests/fonts/Proxima Nova Black.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		B977302768884FFCA6927ABC /* Proxima Nova Bold Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova Bold Italic.otf"; path = "../assests/fonts/Proxima Nova Bold Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E95B3C895BEB43ECAACDE526 /* Proxima Nova Bold.otf */ = {isa = PBXFileReference; name = "Proxima Nova Bold.otf"; path = "../assests/fonts/Proxima Nova Bold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		F5910D747E5D4D87BB5B446F /* Proxima Nova Condensed Black Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova Condensed Black Italic.otf"; path = "../assests/fonts/Proxima Nova Condensed Black Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		BA1B6B7573F345DBBC733CFF /* Proxima Nova Condensed Black.otf */ = {isa = PBXFileReference; name = "Proxima Nova Condensed Black.otf"; path = "../assests/fonts/Proxima Nova Condensed Black.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		FFEDA820889F40B081F06D1C /* Proxima Nova Condensed Bold Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova Condensed Bold Italic.otf"; path = "../assests/fonts/Proxima Nova Condensed Bold Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		BE9D4744BB3247A39C7B5AFF /* Proxima Nova Condensed Bold.otf */ = {isa = PBXFileReference; name = "Proxima Nova Condensed Bold.otf"; path = "../assests/fonts/Proxima Nova Condensed Bold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		A4C4F1A3D731415E8A611BE8 /* Proxima Nova Condensed Extrabold Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova Condensed Extrabold Italic.otf"; path = "../assests/fonts/Proxima Nova Condensed Extrabold Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		66C0FB7DE2EA42F98B5EC1DB /* Proxima Nova Condensed Extrabold.otf */ = {isa = PBXFileReference; name = "Proxima Nova Condensed Extrabold.otf"; path = "../assests/fonts/Proxima Nova Condensed Extrabold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		B8F899161AE44BE6B7DF5271 /* Proxima Nova Condensed Light Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova Condensed Light Italic.otf"; path = "../assests/fonts/Proxima Nova Condensed Light Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9497EF31FD8C44B7A5BB63E1 /* Proxima Nova Condensed Light.otf */ = {isa = PBXFileReference; name = "Proxima Nova Condensed Light.otf"; path = "../assests/fonts/Proxima Nova Condensed Light.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		00A96EAC3375411AA0835733 /* Proxima Nova Condensed Regular Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova Condensed Regular Italic.otf"; path = "../assests/fonts/Proxima Nova Condensed Regular Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		1E459C5DA7084A97BA75C614 /* Proxima Nova Condensed Regular.otf */ = {isa = PBXFileReference; name = "Proxima Nova Condensed Regular.otf"; path = "../assests/fonts/Proxima Nova Condensed Regular.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9F9D79830065437D8D4B7D11 /* Proxima Nova Condensed Semibold Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova Condensed Semibold Italic.otf"; path = "../assests/fonts/Proxima Nova Condensed Semibold Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		65C5689C592A4CA9BCD36D2F /* Proxima Nova Condensed Semibold.otf */ = {isa = PBXFileReference; name = "Proxima Nova Condensed Semibold.otf"; path = "../assests/fonts/Proxima Nova Condensed Semibold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		2A97C76A8D8A4011A8482EFF /* Proxima Nova Condensed Thin Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova Condensed Thin Italic.otf"; path = "../assests/fonts/Proxima Nova Condensed Thin Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		81A40109E2314C5691F95DB3 /* Proxima Nova Condensed Thin.otf */ = {isa = PBXFileReference; name = "Proxima Nova Condensed Thin.otf"; path = "../assests/fonts/Proxima Nova Condensed Thin.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		546EEEE46A904A22B650288F /* Proxima Nova Extra Condensed Black Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova Extra Condensed Black Italic.otf"; path = "../assests/fonts/Proxima Nova Extra Condensed Black Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		F27B67ECD76B454D8784C2F4 /* Proxima Nova Extra Condensed Black.otf */ = {isa = PBXFileReference; name = "Proxima Nova Extra Condensed Black.otf"; path = "../assests/fonts/Proxima Nova Extra Condensed Black.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		B894AEEC86F34977919DA4FD /* Proxima Nova Extra Condensed Bold Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova Extra Condensed Bold Italic.otf"; path = "../assests/fonts/Proxima Nova Extra Condensed Bold Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		0CDC40510F4940E6AC01994C /* Proxima Nova Extra Condensed Bold.otf */ = {isa = PBXFileReference; name = "Proxima Nova Extra Condensed Bold.otf"; path = "../assests/fonts/Proxima Nova Extra Condensed Bold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		24572A4C35DF44E69E6DFA9C /* Proxima Nova Extra Condensed Extrabold Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova Extra Condensed Extrabold Italic.otf"; path = "../assests/fonts/Proxima Nova Extra Condensed Extrabold Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E4E5C97F35EA4C7B8F783E2C /* Proxima Nova Extra Condensed Extrabold.otf */ = {isa = PBXFileReference; name = "Proxima Nova Extra Condensed Extrabold.otf"; path = "../assests/fonts/Proxima Nova Extra Condensed Extrabold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		87084AF3EB0B4E45919AA8B9 /* Proxima Nova Extra Condensed Light Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova Extra Condensed Light Italic.otf"; path = "../assests/fonts/Proxima Nova Extra Condensed Light Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9F64930EC339428C94874D0F /* Proxima Nova Extra Condensed Light.otf */ = {isa = PBXFileReference; name = "Proxima Nova Extra Condensed Light.otf"; path = "../assests/fonts/Proxima Nova Extra Condensed Light.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		65939BD7D3A34BD0AF2D9F41 /* Proxima Nova Extra Condensed Regular Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova Extra Condensed Regular Italic.otf"; path = "../assests/fonts/Proxima Nova Extra Condensed Regular Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		5C6E7837EE78443EB710BC07 /* Proxima Nova Extra Condensed Regular.otf */ = {isa = PBXFileReference; name = "Proxima Nova Extra Condensed Regular.otf"; path = "../assests/fonts/Proxima Nova Extra Condensed Regular.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		851BC2F5D9B24F7987A96AB1 /* Proxima Nova Extra Condensed Semibold Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova Extra Condensed Semibold Italic.otf"; path = "../assests/fonts/Proxima Nova Extra Condensed Semibold Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		498FD4BF700A4542A5272977 /* Proxima Nova Extra Condensed Semibold.otf */ = {isa = PBXFileReference; name = "Proxima Nova Extra Condensed Semibold.otf"; path = "../assests/fonts/Proxima Nova Extra Condensed Semibold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		3AED86FA991F4A509182028B /* Proxima Nova Extra Condensed Thin Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova Extra Condensed Thin Italic.otf"; path = "../assests/fonts/Proxima Nova Extra Condensed Thin Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		7BAED52B5F6546E99F0DA174 /* Proxima Nova Extra Condensed Thin.otf */ = {isa = PBXFileReference; name = "Proxima Nova Extra Condensed Thin.otf"; path = "../assests/fonts/Proxima Nova Extra Condensed Thin.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		00D4CB73AA8F41D5860835BE /* Proxima Nova Extrabold Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova Extrabold Italic.otf"; path = "../assests/fonts/Proxima Nova Extrabold Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		17FD5D58A8884704B683200C /* Proxima Nova Extrabold.otf */ = {isa = PBXFileReference; name = "Proxima Nova Extrabold.otf"; path = "../assests/fonts/Proxima Nova Extrabold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		001E7B3E5AF44FA3A08BB9F3 /* Proxima Nova ScOsf Black Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova ScOsf Black Italic.otf"; path = "../assests/fonts/Proxima Nova ScOsf Black Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		FF1E79FA3D504D1795761D72 /* Proxima Nova ScOsf Black.otf */ = {isa = PBXFileReference; name = "Proxima Nova ScOsf Black.otf"; path = "../assests/fonts/Proxima Nova ScOsf Black.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		69FD355C5D08432E8D8C0E45 /* Proxima Nova ScOsf Bold Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova ScOsf Bold Italic.otf"; path = "../assests/fonts/Proxima Nova ScOsf Bold Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9A4A7120C12D49DAB0A62874 /* Proxima Nova ScOsf Bold.otf */ = {isa = PBXFileReference; name = "Proxima Nova ScOsf Bold.otf"; path = "../assests/fonts/Proxima Nova ScOsf Bold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		449A5A5ABB0C4A70B1D46D4B /* Proxima Nova ScOsf Condensed Black Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova ScOsf Condensed Black Italic.otf"; path = "../assests/fonts/Proxima Nova ScOsf Condensed Black Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		0554003137414C818088B76A /* Proxima Nova ScOsf Condensed Black.otf */ = {isa = PBXFileReference; name = "Proxima Nova ScOsf Condensed Black.otf"; path = "../assests/fonts/Proxima Nova ScOsf Condensed Black.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E00E3916AD554784983F4BD8 /* Proxima Nova ScOsf Condensed Bold Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova ScOsf Condensed Bold Italic.otf"; path = "../assests/fonts/Proxima Nova ScOsf Condensed Bold Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		A7C8149DA40544AF969426E6 /* Proxima Nova ScOsf Condensed Bold.otf */ = {isa = PBXFileReference; name = "Proxima Nova ScOsf Condensed Bold.otf"; path = "../assests/fonts/Proxima Nova ScOsf Condensed Bold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		6DF76F02A9E24298AE8E8470 /* Proxima Nova ScOsf Condensed Extrabold Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova ScOsf Condensed Extrabold Italic.otf"; path = "../assests/fonts/Proxima Nova ScOsf Condensed Extrabold Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		230127A781D94354A997CABC /* Proxima Nova ScOsf Condensed Extrabold.otf */ = {isa = PBXFileReference; name = "Proxima Nova ScOsf Condensed Extrabold.otf"; path = "../assests/fonts/Proxima Nova ScOsf Condensed Extrabold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		7470E5219E8F4722B4AFC1F5 /* Proxima Nova ScOsf Condensed Light Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova ScOsf Condensed Light Italic.otf"; path = "../assests/fonts/Proxima Nova ScOsf Condensed Light Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		EE95E54702D04842B1E8B1DD /* Proxima Nova ScOsf Condensed Light.otf */ = {isa = PBXFileReference; name = "Proxima Nova ScOsf Condensed Light.otf"; path = "../assests/fonts/Proxima Nova ScOsf Condensed Light.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		F9364517C34947C99B9275ED /* Proxima Nova ScOsf Condensed Regular Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova ScOsf Condensed Regular Italic.otf"; path = "../assests/fonts/Proxima Nova ScOsf Condensed Regular Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		8014825644DB42EAACEFF34B /* Proxima Nova ScOsf Condensed Regular.otf */ = {isa = PBXFileReference; name = "Proxima Nova ScOsf Condensed Regular.otf"; path = "../assests/fonts/Proxima Nova ScOsf Condensed Regular.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		F84968C61F02400A812B6D55 /* Proxima Nova ScOsf Condensed Semibold Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova ScOsf Condensed Semibold Italic.otf"; path = "../assests/fonts/Proxima Nova ScOsf Condensed Semibold Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		F0EEF41C72374577933B730C /* Proxima Nova ScOsf Condensed Semibold.otf */ = {isa = PBXFileReference; name = "Proxima Nova ScOsf Condensed Semibold.otf"; path = "../assests/fonts/Proxima Nova ScOsf Condensed Semibold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		DC534B24D7034C7C9F7FF1AD /* Proxima Nova ScOsf Condensed Thin Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova ScOsf Condensed Thin Italic.otf"; path = "../assests/fonts/Proxima Nova ScOsf Condensed Thin Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		BEC7D0F1EC9046668BF4E652 /* Proxima Nova ScOsf Condensed Thin.otf */ = {isa = PBXFileReference; name = "Proxima Nova ScOsf Condensed Thin.otf"; path = "../assests/fonts/Proxima Nova ScOsf Condensed Thin.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		6E0E1DFEADF54A3DB811CE72 /* Proxima Nova ScOsf Extra Condensed Black Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova ScOsf Extra Condensed Black Italic.otf"; path = "../assests/fonts/Proxima Nova ScOsf Extra Condensed Black Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		CC81BAB7DD6A4195B866969E /* Proxima Nova ScOsf Extra Condensed Black.otf */ = {isa = PBXFileReference; name = "Proxima Nova ScOsf Extra Condensed Black.otf"; path = "../assests/fonts/Proxima Nova ScOsf Extra Condensed Black.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		571559D25B104AEE8B751CF5 /* Proxima Nova ScOsf Extra Condensed Bold Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova ScOsf Extra Condensed Bold Italic.otf"; path = "../assests/fonts/Proxima Nova ScOsf Extra Condensed Bold Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		283A298B3BC9401BAE1439D1 /* Proxima Nova ScOsf Extra Condensed Bold.otf */ = {isa = PBXFileReference; name = "Proxima Nova ScOsf Extra Condensed Bold.otf"; path = "../assests/fonts/Proxima Nova ScOsf Extra Condensed Bold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		FB21347AE7464CCAB04C8F00 /* Proxima Nova ScOsf Extra Condensed Extrabold Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova ScOsf Extra Condensed Extrabold Italic.otf"; path = "../assests/fonts/Proxima Nova ScOsf Extra Condensed Extrabold Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		6E9CEB950A2F41BE881C7A57 /* Proxima Nova ScOsf Extra Condensed Extrabold.otf */ = {isa = PBXFileReference; name = "Proxima Nova ScOsf Extra Condensed Extrabold.otf"; path = "../assests/fonts/Proxima Nova ScOsf Extra Condensed Extrabold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		F90200B2BBA64F029471B813 /* Proxima Nova ScOsf Extra Condensed Light Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova ScOsf Extra Condensed Light Italic.otf"; path = "../assests/fonts/Proxima Nova ScOsf Extra Condensed Light Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		AAB9BB0825C24848AE7AB647 /* Proxima Nova ScOsf Extra Condensed Light.otf */ = {isa = PBXFileReference; name = "Proxima Nova ScOsf Extra Condensed Light.otf"; path = "../assests/fonts/Proxima Nova ScOsf Extra Condensed Light.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		BCF958C2CA63490898A4AC87 /* Proxima Nova ScOsf Extra Condensed Regular Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova ScOsf Extra Condensed Regular Italic.otf"; path = "../assests/fonts/Proxima Nova ScOsf Extra Condensed Regular Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		598AE199EBD04E34B362335C /* Proxima Nova ScOsf Extra Condensed Regular.otf */ = {isa = PBXFileReference; name = "Proxima Nova ScOsf Extra Condensed Regular.otf"; path = "../assests/fonts/Proxima Nova ScOsf Extra Condensed Regular.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		20004937540A4861B29B01E4 /* Proxima Nova ScOsf Extra Condensed Semibold Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova ScOsf Extra Condensed Semibold Italic.otf"; path = "../assests/fonts/Proxima Nova ScOsf Extra Condensed Semibold Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		728C3D47D1764256AEE47194 /* Proxima Nova ScOsf Extra Condensed Semibold.otf */ = {isa = PBXFileReference; name = "Proxima Nova ScOsf Extra Condensed Semibold.otf"; path = "../assests/fonts/Proxima Nova ScOsf Extra Condensed Semibold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		212D9C42965F492AB577CEE8 /* Proxima Nova ScOsf Extra Condensed Thin Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova ScOsf Extra Condensed Thin Italic.otf"; path = "../assests/fonts/Proxima Nova ScOsf Extra Condensed Thin Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		1675458F385E4F769F305144 /* Proxima Nova ScOsf Extra Condensed Thin.otf */ = {isa = PBXFileReference; name = "Proxima Nova ScOsf Extra Condensed Thin.otf"; path = "../assests/fonts/Proxima Nova ScOsf Extra Condensed Thin.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		DC1BF1D35EDE4766B615B5A6 /* Proxima Nova ScOsf Extrabold Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova ScOsf Extrabold Italic.otf"; path = "../assests/fonts/Proxima Nova ScOsf Extrabold Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		A6DEAF00E51A4595B7985E98 /* Proxima Nova ScOsf Extrabold.otf */ = {isa = PBXFileReference; name = "Proxima Nova ScOsf Extrabold.otf"; path = "../assests/fonts/Proxima Nova ScOsf Extrabold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		427546A4D5154D868990D39D /* Proxima Nova ScOsf Light Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova ScOsf Light Italic.otf"; path = "../assests/fonts/Proxima Nova ScOsf Light Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		2ECB688166EB49618F31DA98 /* Proxima Nova ScOsf Light.otf */ = {isa = PBXFileReference; name = "Proxima Nova ScOsf Light.otf"; path = "../assests/fonts/Proxima Nova ScOsf Light.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		CAAA832A598443B4B7ADE987 /* Proxima Nova ScOsf Regular Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova ScOsf Regular Italic.otf"; path = "../assests/fonts/Proxima Nova ScOsf Regular Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		6F02430D6A794B669E0CC1ED /* Proxima Nova ScOsf Regular.otf */ = {isa = PBXFileReference; name = "Proxima Nova ScOsf Regular.otf"; path = "../assests/fonts/Proxima Nova ScOsf Regular.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D27C4818D73E4787919E7B28 /* Proxima Nova ScOsf Semibold Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova ScOsf Semibold Italic.otf"; path = "../assests/fonts/Proxima Nova ScOsf Semibold Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		37EAE35C70654DCAA3332FBC /* Proxima Nova ScOsf Semibold.otf */ = {isa = PBXFileReference; name = "Proxima Nova ScOsf Semibold.otf"; path = "../assests/fonts/Proxima Nova ScOsf Semibold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		214AE1B5A02440E2BDB2F946 /* Proxima Nova ScOsf Thin Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova ScOsf Thin Italic.otf"; path = "../assests/fonts/Proxima Nova ScOsf Thin Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		CEF66FC9A5894A59984ADB85 /* Proxima Nova ScOsf Thin.otf */ = {isa = PBXFileReference; name = "Proxima Nova ScOsf Thin.otf"; path = "../assests/fonts/Proxima Nova ScOsf Thin.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		575E5F84BB874279AEA50ADF /* Proxima Nova Semibold Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova Semibold Italic.otf"; path = "../assests/fonts/Proxima Nova Semibold Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		BB25308678574D5E9CF26826 /* Proxima Nova Semibold.otf */ = {isa = PBXFileReference; name = "Proxima Nova Semibold.otf"; path = "../assests/fonts/Proxima Nova Semibold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		7D2CBF5D11DD4954AEB80398 /* Proxima Nova Thin Italic.otf */ = {isa = PBXFileReference; name = "Proxima Nova Thin Italic.otf"; path = "../assests/fonts/Proxima Nova Thin Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		6427562192A249AE8A6A5DC2 /* Proxima Nova Thin.otf */ = {isa = PBXFileReference; name = "Proxima Nova Thin.otf"; path = "../assests/fonts/Proxima Nova Thin.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		2D53F669F89742E8819C476C /* ProximaNova-Regular.otf */ = {isa = PBXFileReference; name = "ProximaNova-Regular.otf"; path = "../assests/fonts/ProximaNova-Regular.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -124,6 +370,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				F87814D36FC3444CB1D7B1E4 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -149,6 +396,137 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
+		};
+		F87814D36FC3444CB1D7B1E4 /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				8012C1B7FC984DC389DC899A /* Proxima Nova Alt Black Italic.otf */,
+				EA8C79A895C0408CB8319AD6 /* Proxima Nova Alt Black.otf */,
+				C18BED16CF7A40DDB727614C /* Proxima Nova Alt Bold Italic.otf */,
+				3A04F5C978D640259281D175 /* Proxima Nova Alt Bold.otf */,
+				2AF150EB426C4AA298713E83 /* Proxima Nova Alt Condensed Black Italic.otf */,
+				D073CAC0D5A648EBB1DA842D /* Proxima Nova Alt Condensed Black.otf */,
+				1474F46BE01244B898DD3E30 /* Proxima Nova Alt Condensed Bold Italic.otf */,
+				9A860858E7324CCF97401041 /* Proxima Nova Alt Condensed Bold.otf */,
+				96BFF1B1AAE24067B93F4C45 /* Proxima Nova Alt Condensed Extrabold Italic.otf */,
+				C3B2D9842A60409FBFD81B4D /* Proxima Nova Alt Condensed Extrabold.otf */,
+				C51A45D7F4BF495EAA85E513 /* Proxima Nova Alt Condensed Light Italic.otf */,
+				AAEE14CE4299430682FEA899 /* Proxima Nova Alt Condensed Light.otf */,
+				8D1A5423014848F5B087AB87 /* Proxima Nova Alt Condensed Regular Italic.otf */,
+				CC1D903007DC48D9AAFDF167 /* Proxima Nova Alt Condensed Regular.otf */,
+				9A8480B014D24F7AB836A237 /* Proxima Nova Alt Condensed Semibold Italic.otf */,
+				5581399EEEFB4239B4B6E380 /* Proxima Nova Alt Condensed Semibold.otf */,
+				3755F887F5FA4A4A8C99F543 /* Proxima Nova Alt Condensed Thin Italic.otf */,
+				E2C3296DD6DC44918EFEC8BE /* Proxima Nova Alt Condensed Thin.otf */,
+				B916D413AF59419D99A11384 /* Proxima Nova Alt Extra Condensed Black Italic.otf */,
+				02E431DF390C4631BA6B1482 /* Proxima Nova Alt Extra Condensed Black.otf */,
+				317207DB00974CBF89895495 /* Proxima Nova Alt Extra Condensed Bold Italic.otf */,
+				C8038F2A70FF416BB416DEF7 /* Proxima Nova Alt Extra Condensed Bold.otf */,
+				0571EC861FF142588D77A839 /* Proxima Nova Alt Extra Condensed Extrabold Italic.otf */,
+				3A9F72607BE74196A45BF8BB /* Proxima Nova Alt Extra Condensed Extrabold.otf */,
+				8B0B894B662241459EE0B38A /* Proxima Nova Alt Extra Condensed Light Italic.otf */,
+				15A04F0B819444A88839AAA0 /* Proxima Nova Alt Extra Condensed Light.otf */,
+				5CDDA05AD6C442C2AFAC428B /* Proxima Nova Alt Extra Condensed Regular Italic.otf */,
+				8A18ACAB79BA4F49BC16D6B6 /* Proxima Nova Alt Extra Condensed Regular.otf */,
+				81339BFD7A514A32B01A7EB4 /* Proxima Nova Alt Extra Condensed Semibold Italic.otf */,
+				5DA76DFED4D0424386A6240B /* Proxima Nova Alt Extra Condensed Semibold.otf */,
+				DF4200AB25B14C02A6D2B990 /* Proxima Nova Alt Extra Condensed Thin Italic.otf */,
+				F1D1259CAA384F05B2CD142E /* Proxima Nova Alt Extra Condensed Thin.otf */,
+				DE0E50BFF97E4512AF765813 /* Proxima Nova Alt Extrabold Italic.otf */,
+				5F4558161D0B4126A556E3EB /* Proxima Nova Alt Extrabold.otf */,
+				E85D8D37E3B54BB09C2980A0 /* Proxima Nova Alt Light Italic.otf */,
+				183FC113851749A687BC5C89 /* Proxima Nova Alt Light.otf */,
+				E4466346E891483B839B9C16 /* Proxima Nova Alt Regular Italic.otf */,
+				1F2921C7603149608E179B4A /* Proxima Nova Alt Regular.otf */,
+				6719A28D618A40E9ACA7B56A /* Proxima Nova Alt Semibold Italic.otf */,
+				93731A915D70481AA966809A /* Proxima Nova Alt Semibold.otf */,
+				7213593E3929420B9785657F /* Proxima Nova Alt Thin Italic.otf */,
+				CF77F0CA5E6D4C2B841E8101 /* Proxima Nova Alt Thin.otf */,
+				3DA3BA84F1714F1FAEDD32E2 /* Proxima Nova Black Italic.otf */,
+				AC8AAFADEB9D4C59A7FDA7B8 /* Proxima Nova Black.otf */,
+				B977302768884FFCA6927ABC /* Proxima Nova Bold Italic.otf */,
+				E95B3C895BEB43ECAACDE526 /* Proxima Nova Bold.otf */,
+				F5910D747E5D4D87BB5B446F /* Proxima Nova Condensed Black Italic.otf */,
+				BA1B6B7573F345DBBC733CFF /* Proxima Nova Condensed Black.otf */,
+				FFEDA820889F40B081F06D1C /* Proxima Nova Condensed Bold Italic.otf */,
+				BE9D4744BB3247A39C7B5AFF /* Proxima Nova Condensed Bold.otf */,
+				A4C4F1A3D731415E8A611BE8 /* Proxima Nova Condensed Extrabold Italic.otf */,
+				66C0FB7DE2EA42F98B5EC1DB /* Proxima Nova Condensed Extrabold.otf */,
+				B8F899161AE44BE6B7DF5271 /* Proxima Nova Condensed Light Italic.otf */,
+				9497EF31FD8C44B7A5BB63E1 /* Proxima Nova Condensed Light.otf */,
+				00A96EAC3375411AA0835733 /* Proxima Nova Condensed Regular Italic.otf */,
+				1E459C5DA7084A97BA75C614 /* Proxima Nova Condensed Regular.otf */,
+				9F9D79830065437D8D4B7D11 /* Proxima Nova Condensed Semibold Italic.otf */,
+				65C5689C592A4CA9BCD36D2F /* Proxima Nova Condensed Semibold.otf */,
+				2A97C76A8D8A4011A8482EFF /* Proxima Nova Condensed Thin Italic.otf */,
+				81A40109E2314C5691F95DB3 /* Proxima Nova Condensed Thin.otf */,
+				546EEEE46A904A22B650288F /* Proxima Nova Extra Condensed Black Italic.otf */,
+				F27B67ECD76B454D8784C2F4 /* Proxima Nova Extra Condensed Black.otf */,
+				B894AEEC86F34977919DA4FD /* Proxima Nova Extra Condensed Bold Italic.otf */,
+				0CDC40510F4940E6AC01994C /* Proxima Nova Extra Condensed Bold.otf */,
+				24572A4C35DF44E69E6DFA9C /* Proxima Nova Extra Condensed Extrabold Italic.otf */,
+				E4E5C97F35EA4C7B8F783E2C /* Proxima Nova Extra Condensed Extrabold.otf */,
+				87084AF3EB0B4E45919AA8B9 /* Proxima Nova Extra Condensed Light Italic.otf */,
+				9F64930EC339428C94874D0F /* Proxima Nova Extra Condensed Light.otf */,
+				65939BD7D3A34BD0AF2D9F41 /* Proxima Nova Extra Condensed Regular Italic.otf */,
+				5C6E7837EE78443EB710BC07 /* Proxima Nova Extra Condensed Regular.otf */,
+				851BC2F5D9B24F7987A96AB1 /* Proxima Nova Extra Condensed Semibold Italic.otf */,
+				498FD4BF700A4542A5272977 /* Proxima Nova Extra Condensed Semibold.otf */,
+				3AED86FA991F4A509182028B /* Proxima Nova Extra Condensed Thin Italic.otf */,
+				7BAED52B5F6546E99F0DA174 /* Proxima Nova Extra Condensed Thin.otf */,
+				00D4CB73AA8F41D5860835BE /* Proxima Nova Extrabold Italic.otf */,
+				17FD5D58A8884704B683200C /* Proxima Nova Extrabold.otf */,
+				001E7B3E5AF44FA3A08BB9F3 /* Proxima Nova ScOsf Black Italic.otf */,
+				FF1E79FA3D504D1795761D72 /* Proxima Nova ScOsf Black.otf */,
+				69FD355C5D08432E8D8C0E45 /* Proxima Nova ScOsf Bold Italic.otf */,
+				9A4A7120C12D49DAB0A62874 /* Proxima Nova ScOsf Bold.otf */,
+				449A5A5ABB0C4A70B1D46D4B /* Proxima Nova ScOsf Condensed Black Italic.otf */,
+				0554003137414C818088B76A /* Proxima Nova ScOsf Condensed Black.otf */,
+				E00E3916AD554784983F4BD8 /* Proxima Nova ScOsf Condensed Bold Italic.otf */,
+				A7C8149DA40544AF969426E6 /* Proxima Nova ScOsf Condensed Bold.otf */,
+				6DF76F02A9E24298AE8E8470 /* Proxima Nova ScOsf Condensed Extrabold Italic.otf */,
+				230127A781D94354A997CABC /* Proxima Nova ScOsf Condensed Extrabold.otf */,
+				7470E5219E8F4722B4AFC1F5 /* Proxima Nova ScOsf Condensed Light Italic.otf */,
+				EE95E54702D04842B1E8B1DD /* Proxima Nova ScOsf Condensed Light.otf */,
+				F9364517C34947C99B9275ED /* Proxima Nova ScOsf Condensed Regular Italic.otf */,
+				8014825644DB42EAACEFF34B /* Proxima Nova ScOsf Condensed Regular.otf */,
+				F84968C61F02400A812B6D55 /* Proxima Nova ScOsf Condensed Semibold Italic.otf */,
+				F0EEF41C72374577933B730C /* Proxima Nova ScOsf Condensed Semibold.otf */,
+				DC534B24D7034C7C9F7FF1AD /* Proxima Nova ScOsf Condensed Thin Italic.otf */,
+				BEC7D0F1EC9046668BF4E652 /* Proxima Nova ScOsf Condensed Thin.otf */,
+				6E0E1DFEADF54A3DB811CE72 /* Proxima Nova ScOsf Extra Condensed Black Italic.otf */,
+				CC81BAB7DD6A4195B866969E /* Proxima Nova ScOsf Extra Condensed Black.otf */,
+				571559D25B104AEE8B751CF5 /* Proxima Nova ScOsf Extra Condensed Bold Italic.otf */,
+				283A298B3BC9401BAE1439D1 /* Proxima Nova ScOsf Extra Condensed Bold.otf */,
+				FB21347AE7464CCAB04C8F00 /* Proxima Nova ScOsf Extra Condensed Extrabold Italic.otf */,
+				6E9CEB950A2F41BE881C7A57 /* Proxima Nova ScOsf Extra Condensed Extrabold.otf */,
+				F90200B2BBA64F029471B813 /* Proxima Nova ScOsf Extra Condensed Light Italic.otf */,
+				AAB9BB0825C24848AE7AB647 /* Proxima Nova ScOsf Extra Condensed Light.otf */,
+				BCF958C2CA63490898A4AC87 /* Proxima Nova ScOsf Extra Condensed Regular Italic.otf */,
+				598AE199EBD04E34B362335C /* Proxima Nova ScOsf Extra Condensed Regular.otf */,
+				20004937540A4861B29B01E4 /* Proxima Nova ScOsf Extra Condensed Semibold Italic.otf */,
+				728C3D47D1764256AEE47194 /* Proxima Nova ScOsf Extra Condensed Semibold.otf */,
+				212D9C42965F492AB577CEE8 /* Proxima Nova ScOsf Extra Condensed Thin Italic.otf */,
+				1675458F385E4F769F305144 /* Proxima Nova ScOsf Extra Condensed Thin.otf */,
+				DC1BF1D35EDE4766B615B5A6 /* Proxima Nova ScOsf Extrabold Italic.otf */,
+				A6DEAF00E51A4595B7985E98 /* Proxima Nova ScOsf Extrabold.otf */,
+				427546A4D5154D868990D39D /* Proxima Nova ScOsf Light Italic.otf */,
+				2ECB688166EB49618F31DA98 /* Proxima Nova ScOsf Light.otf */,
+				CAAA832A598443B4B7ADE987 /* Proxima Nova ScOsf Regular Italic.otf */,
+				6F02430D6A794B669E0CC1ED /* Proxima Nova ScOsf Regular.otf */,
+				D27C4818D73E4787919E7B28 /* Proxima Nova ScOsf Semibold Italic.otf */,
+				37EAE35C70654DCAA3332FBC /* Proxima Nova ScOsf Semibold.otf */,
+				214AE1B5A02440E2BDB2F946 /* Proxima Nova ScOsf Thin Italic.otf */,
+				CEF66FC9A5894A59984ADB85 /* Proxima Nova ScOsf Thin.otf */,
+				575E5F84BB874279AEA50ADF /* Proxima Nova Semibold Italic.otf */,
+				BB25308678574D5E9CF26826 /* Proxima Nova Semibold.otf */,
+				7D2CBF5D11DD4954AEB80398 /* Proxima Nova Thin Italic.otf */,
+				6427562192A249AE8A6A5DC2 /* Proxima Nova Thin.otf */,
+				2D53F669F89742E8819C476C /* ProximaNova-Regular.otf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -245,6 +623,129 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				8A66C73ACA2041C5B927D129 /* Proxima Nova Alt Black Italic.otf in Resources */,
+				3FB2B69132EE4135BA30087B /* Proxima Nova Alt Black.otf in Resources */,
+				0089136747044D7A8490AE2B /* Proxima Nova Alt Bold Italic.otf in Resources */,
+				9E88BAF7EEC743FBA06541B8 /* Proxima Nova Alt Bold.otf in Resources */,
+				B5990054EAD7444E815956EF /* Proxima Nova Alt Condensed Black Italic.otf in Resources */,
+				B7ACFB44DD2D458AB8F6A65A /* Proxima Nova Alt Condensed Black.otf in Resources */,
+				2C8F91CB719D48FDBA329C1F /* Proxima Nova Alt Condensed Bold Italic.otf in Resources */,
+				4E502ACC4C3A4A85BA589FF8 /* Proxima Nova Alt Condensed Bold.otf in Resources */,
+				5E200BF93B0F4B7295B6913E /* Proxima Nova Alt Condensed Extrabold Italic.otf in Resources */,
+				046E3C73791A4237A2309290 /* Proxima Nova Alt Condensed Extrabold.otf in Resources */,
+				E951323BC833456898D99351 /* Proxima Nova Alt Condensed Light Italic.otf in Resources */,
+				6343A740B8C348B38A9F4E78 /* Proxima Nova Alt Condensed Light.otf in Resources */,
+				9CF8CD047D7544F3BC780206 /* Proxima Nova Alt Condensed Regular Italic.otf in Resources */,
+				49F92E9677EA43E684280B9A /* Proxima Nova Alt Condensed Regular.otf in Resources */,
+				3BF05DE018C14CC6B43D44A5 /* Proxima Nova Alt Condensed Semibold Italic.otf in Resources */,
+				BAF7FC8C947A41DD96AB6120 /* Proxima Nova Alt Condensed Semibold.otf in Resources */,
+				A7DDF19F95554223B00527A9 /* Proxima Nova Alt Condensed Thin Italic.otf in Resources */,
+				6A1770219609477F9F91577A /* Proxima Nova Alt Condensed Thin.otf in Resources */,
+				FB57F59D2E5D47E3ACF7F38B /* Proxima Nova Alt Extra Condensed Black Italic.otf in Resources */,
+				C2D0167EE23A4AF99582A4DC /* Proxima Nova Alt Extra Condensed Black.otf in Resources */,
+				C0BDA7C3BBEE4F78B0772D96 /* Proxima Nova Alt Extra Condensed Bold Italic.otf in Resources */,
+				E1B7D3FA2D7C43539F9E4DEF /* Proxima Nova Alt Extra Condensed Bold.otf in Resources */,
+				60DC67D65C594254A59C29CE /* Proxima Nova Alt Extra Condensed Extrabold Italic.otf in Resources */,
+				E54806175CC74AB4A3D0E947 /* Proxima Nova Alt Extra Condensed Extrabold.otf in Resources */,
+				35314CF218F6476780DDC00F /* Proxima Nova Alt Extra Condensed Light Italic.otf in Resources */,
+				EC7ACB9738364FD9AA5B299D /* Proxima Nova Alt Extra Condensed Light.otf in Resources */,
+				1AE04D50FFAE4403BA2B831D /* Proxima Nova Alt Extra Condensed Regular Italic.otf in Resources */,
+				E516BB6127E04BACB8644BE3 /* Proxima Nova Alt Extra Condensed Regular.otf in Resources */,
+				1D983E8FFFD14873B3A040C0 /* Proxima Nova Alt Extra Condensed Semibold Italic.otf in Resources */,
+				ED9C46D17B164604BBD637BF /* Proxima Nova Alt Extra Condensed Semibold.otf in Resources */,
+				CD7A3DCB78F64012AF6ECFA5 /* Proxima Nova Alt Extra Condensed Thin Italic.otf in Resources */,
+				8FF61DDFBD584C68966D9EA3 /* Proxima Nova Alt Extra Condensed Thin.otf in Resources */,
+				45FA1B38A5E94BD195381BDB /* Proxima Nova Alt Extrabold Italic.otf in Resources */,
+				C03DAE510980435B866C9155 /* Proxima Nova Alt Extrabold.otf in Resources */,
+				C42AACE5C351469FB866FA03 /* Proxima Nova Alt Light Italic.otf in Resources */,
+				47B1A9CA4273439FADE7E6CF /* Proxima Nova Alt Light.otf in Resources */,
+				E5E3634A762A45C784B7D57D /* Proxima Nova Alt Regular Italic.otf in Resources */,
+				2240E81BB5B7440EBA0C2179 /* Proxima Nova Alt Regular.otf in Resources */,
+				DA8A4DB64D0A47868E6ADCE9 /* Proxima Nova Alt Semibold Italic.otf in Resources */,
+				BEB5E57D981E459F97850550 /* Proxima Nova Alt Semibold.otf in Resources */,
+				6FB114284ECD4F86BA617845 /* Proxima Nova Alt Thin Italic.otf in Resources */,
+				9CBDAB62B61448E7964381CB /* Proxima Nova Alt Thin.otf in Resources */,
+				B8DF61B3E472480AAC92B970 /* Proxima Nova Black Italic.otf in Resources */,
+				1B5F54B5552344ACAEF506D0 /* Proxima Nova Black.otf in Resources */,
+				0D74D4712F8C40BAA1798BD5 /* Proxima Nova Bold Italic.otf in Resources */,
+				3A53492DF3D2446F820A9E2A /* Proxima Nova Bold.otf in Resources */,
+				C0A15560154148FF8E6A2947 /* Proxima Nova Condensed Black Italic.otf in Resources */,
+				5BB9F23D5F7640F9A726DF05 /* Proxima Nova Condensed Black.otf in Resources */,
+				3AE222A037F54984BECBEB73 /* Proxima Nova Condensed Bold Italic.otf in Resources */,
+				246B07BF16EE470BB67E768A /* Proxima Nova Condensed Bold.otf in Resources */,
+				48E04A84B69C476CACF07DE2 /* Proxima Nova Condensed Extrabold Italic.otf in Resources */,
+				13EE39B13FE04D319789351A /* Proxima Nova Condensed Extrabold.otf in Resources */,
+				C1925CF29B924239934C18AE /* Proxima Nova Condensed Light Italic.otf in Resources */,
+				7363E8BCF5AF48708E4C1BED /* Proxima Nova Condensed Light.otf in Resources */,
+				31572D4077C748E788D57020 /* Proxima Nova Condensed Regular Italic.otf in Resources */,
+				564B3EE98D6341889D95410B /* Proxima Nova Condensed Regular.otf in Resources */,
+				0AC9DDA99B0E4BD9A39EE134 /* Proxima Nova Condensed Semibold Italic.otf in Resources */,
+				8141CD12FA874EAFA7B16A97 /* Proxima Nova Condensed Semibold.otf in Resources */,
+				CCC9802B35B040AEB1CCE375 /* Proxima Nova Condensed Thin Italic.otf in Resources */,
+				0153DDC03C57491A9B37D9C7 /* Proxima Nova Condensed Thin.otf in Resources */,
+				0D94E6665D2A4DCE8346365C /* Proxima Nova Extra Condensed Black Italic.otf in Resources */,
+				CA98F8AF3C26471A9FF669DA /* Proxima Nova Extra Condensed Black.otf in Resources */,
+				C5A42F0144B94051AA5A6317 /* Proxima Nova Extra Condensed Bold Italic.otf in Resources */,
+				42AC86053C95469B9B228018 /* Proxima Nova Extra Condensed Bold.otf in Resources */,
+				EB9AE32598E047D09FDC73E5 /* Proxima Nova Extra Condensed Extrabold Italic.otf in Resources */,
+				1F82122D80464D6ABE411000 /* Proxima Nova Extra Condensed Extrabold.otf in Resources */,
+				7BC2CE2A9AA34536AD4FD285 /* Proxima Nova Extra Condensed Light Italic.otf in Resources */,
+				6F255959981841FB857BCDC2 /* Proxima Nova Extra Condensed Light.otf in Resources */,
+				CEB5BEDEE31A4171B54581CF /* Proxima Nova Extra Condensed Regular Italic.otf in Resources */,
+				99328B228A81440D91938C5D /* Proxima Nova Extra Condensed Regular.otf in Resources */,
+				C74B649EF1C7416C8B46118C /* Proxima Nova Extra Condensed Semibold Italic.otf in Resources */,
+				C0F8A388D6A54BEAAE4F88B2 /* Proxima Nova Extra Condensed Semibold.otf in Resources */,
+				923D5D6BA6A44EB993937068 /* Proxima Nova Extra Condensed Thin Italic.otf in Resources */,
+				0E90E0B87E844F25994A9D86 /* Proxima Nova Extra Condensed Thin.otf in Resources */,
+				40898434AE844AB49023420A /* Proxima Nova Extrabold Italic.otf in Resources */,
+				8F84764FB80548DC9BB706A3 /* Proxima Nova Extrabold.otf in Resources */,
+				8527256855114B9797E815CE /* Proxima Nova ScOsf Black Italic.otf in Resources */,
+				5A24EB9016D842C8A029F8AA /* Proxima Nova ScOsf Black.otf in Resources */,
+				FC8E2B3B234B4820BADBBCFA /* Proxima Nova ScOsf Bold Italic.otf in Resources */,
+				282546FAB1794A8E84EF94E9 /* Proxima Nova ScOsf Bold.otf in Resources */,
+				08D19E5CE02A4EC198E75157 /* Proxima Nova ScOsf Condensed Black Italic.otf in Resources */,
+				2A0F9BD0CA814D7D9C009EAE /* Proxima Nova ScOsf Condensed Black.otf in Resources */,
+				898B7D7C0EC94BF5810925AB /* Proxima Nova ScOsf Condensed Bold Italic.otf in Resources */,
+				B280837C90444969A8833504 /* Proxima Nova ScOsf Condensed Bold.otf in Resources */,
+				F12BD5753DF24AD7B0F037E5 /* Proxima Nova ScOsf Condensed Extrabold Italic.otf in Resources */,
+				B885FB02F159427EB4C19C1B /* Proxima Nova ScOsf Condensed Extrabold.otf in Resources */,
+				6A018FDF14D341DC8DFCE28F /* Proxima Nova ScOsf Condensed Light Italic.otf in Resources */,
+				240B7F6678D647A69EAC1FAC /* Proxima Nova ScOsf Condensed Light.otf in Resources */,
+				EDA75DEBAF554F6BAC220DF8 /* Proxima Nova ScOsf Condensed Regular Italic.otf in Resources */,
+				67249518BD054D66BA2D58BA /* Proxima Nova ScOsf Condensed Regular.otf in Resources */,
+				CD1C8F027BB64252AD56D1A0 /* Proxima Nova ScOsf Condensed Semibold Italic.otf in Resources */,
+				46A61BE48071401688E414DC /* Proxima Nova ScOsf Condensed Semibold.otf in Resources */,
+				5692298DDAEE4DE58B7AB54B /* Proxima Nova ScOsf Condensed Thin Italic.otf in Resources */,
+				40DE98FB35D347858C56E60B /* Proxima Nova ScOsf Condensed Thin.otf in Resources */,
+				2AEC0AFA10F54BD6A36786AE /* Proxima Nova ScOsf Extra Condensed Black Italic.otf in Resources */,
+				5E68E169163641A4AA91D1E3 /* Proxima Nova ScOsf Extra Condensed Black.otf in Resources */,
+				F3DD7036177C4A8591C0E73C /* Proxima Nova ScOsf Extra Condensed Bold Italic.otf in Resources */,
+				F2EE3C78C3074679AFFC05D9 /* Proxima Nova ScOsf Extra Condensed Bold.otf in Resources */,
+				0BFBE2ADA38649B0AA45EEC8 /* Proxima Nova ScOsf Extra Condensed Extrabold Italic.otf in Resources */,
+				5FA7F643FA4F4BAAB951078B /* Proxima Nova ScOsf Extra Condensed Extrabold.otf in Resources */,
+				268773A2970A45F59FD9B142 /* Proxima Nova ScOsf Extra Condensed Light Italic.otf in Resources */,
+				AC981A7AFE044E5EAA8E6F99 /* Proxima Nova ScOsf Extra Condensed Light.otf in Resources */,
+				0F9501C6CF114F148250A543 /* Proxima Nova ScOsf Extra Condensed Regular Italic.otf in Resources */,
+				73B0EEDBC07E4D2698DA958B /* Proxima Nova ScOsf Extra Condensed Regular.otf in Resources */,
+				099E07A5E9CB41BBB7336F35 /* Proxima Nova ScOsf Extra Condensed Semibold Italic.otf in Resources */,
+				21B145A321E44A2BB6A26B4D /* Proxima Nova ScOsf Extra Condensed Semibold.otf in Resources */,
+				EE0C2AEDF0DB459BB34191CA /* Proxima Nova ScOsf Extra Condensed Thin Italic.otf in Resources */,
+				CBDE6CF6F7614403B10D714B /* Proxima Nova ScOsf Extra Condensed Thin.otf in Resources */,
+				015FA87C818A49EB9A042620 /* Proxima Nova ScOsf Extrabold Italic.otf in Resources */,
+				5A3E115236DF4B8BA28176DB /* Proxima Nova ScOsf Extrabold.otf in Resources */,
+				B8C107103245407AB7ECCF13 /* Proxima Nova ScOsf Light Italic.otf in Resources */,
+				27A513D650E5451EA3EEA4D0 /* Proxima Nova ScOsf Light.otf in Resources */,
+				5C50B507B8A248CA81383C0B /* Proxima Nova ScOsf Regular Italic.otf in Resources */,
+				69506C9189744B6F8E59E33D /* Proxima Nova ScOsf Regular.otf in Resources */,
+				847E5D3B95AB427F8B89C56A /* Proxima Nova ScOsf Semibold Italic.otf in Resources */,
+				12B9E17680B3427380693123 /* Proxima Nova ScOsf Semibold.otf in Resources */,
+				6E0DE09E24834FACBAA2C0DA /* Proxima Nova ScOsf Thin Italic.otf in Resources */,
+				9195CD87BE444BCAA7BBB644 /* Proxima Nova ScOsf Thin.otf in Resources */,
+				0ADFBB6067104EA3831588C8 /* Proxima Nova Semibold Italic.otf in Resources */,
+				7B43F6DFF1AC444EAAC6E903 /* Proxima Nova Semibold.otf in Resources */,
+				6AD8E27B1BE04314B37D4EA9 /* Proxima Nova Thin Italic.otf in Resources */,
+				0F67FD9834B746678555ED19 /* Proxima Nova Thin.otf in Resources */,
+				EAEDA063008C446FA80E85B1 /* ProximaNova-Regular.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
